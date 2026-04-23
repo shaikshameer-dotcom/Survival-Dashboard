@@ -1,8 +1,8 @@
 # Survival-Dashboard
 Rshinny dashboard shows the Survival Vs Cox analysis
-# 🧬 KM vs Cox Survival Analysis Dashboard
+#  KM vs Cox Survival Analysis Dashboard
 
-## 📌 Project Overview
+##  Project Overview
 
 This project presents an interactive **clinical survival analysis dashboard** built using R Shiny. It compares **Kaplan–Meier survival analysis** and **Cox proportional hazards modeling** to evaluate treatment effectiveness in an oncology-like dataset.
 
@@ -15,19 +15,19 @@ To analyze whether a **new treatment improves survival outcomes** compared to st
 * Kaplan–Meier survival curves (unadjusted)
 * Cox regression (adjusted for covariates)
 * Proportional Hazards (PH) assumption testing
-## ⚙️ Features
+##  Features
 
-### 📊 1. KM vs Cox Comparison
+###  1. KM vs Cox Comparison
 
 * Kaplan–Meier survival curves
 * Log-rank test (p-value)
 * Cox model summary (Hazard Ratio, p-value)
 
-### ⚠️ 2. PH Assumption Testing
+###  2. PH Assumption Testing
 
 * Validates Cox model assumptions using Schoenfeld residuals
 
-### 🧠 3. Intelligent Interpretation
+###  3. Intelligent Interpretation
 
 * Automatically explains:
 
@@ -35,7 +35,7 @@ To analyze whether a **new treatment improves survival outcomes** compared to st
   * When results differ
   * Impact of confounding variables
 
-## 📈 Key Concepts Demonstrated
+##  Key Concepts Demonstrated
 
 * Survival Analysis
 * Time-to-Event Modeling
@@ -43,7 +43,7 @@ To analyze whether a **new treatment improves survival outcomes** compared to st
 * Cox Proportional Hazards Model
 * Confounding Adjustment
 * Model Assumption Testing
-## 🧪 Dataset Description
+##  Dataset Description
 
 The dataset is **synthetically generated** and includes:
 

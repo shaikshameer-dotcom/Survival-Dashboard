@@ -156,3 +156,5 @@ server <- function(input, output){
 
 # Run
 shinyApp(ui, server)
+shiny::runApp("D:/S.S.B/wordpress")
+rsconnect::deployApp("D:/S.S.B/wordpress")
